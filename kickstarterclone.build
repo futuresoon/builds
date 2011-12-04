@@ -1,0 +1,15 @@
+core = 6.x
+
+api = 2
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "get"
+projects[drupal][download][url] = "http://ftp.drupal.org/files/projects/drupal-6.22.tar.gz"
+projects[pay][type] = "module"
+projects[pay][version] = "1.1"
+projects[donate][type] = "module"
+projects[donate][version] = "1.0-alpha3"
+projects[authorizenet][type] = "module"
+projects[authorizenet][version] = "1.0-alpha2"
+projects[postal][type] = "module"
+projects[postal][version] = "1.0-alpha1"
+
