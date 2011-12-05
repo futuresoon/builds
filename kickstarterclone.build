@@ -12,4 +12,5 @@ projects[authorizenet][type] = "module"
 projects[authorizenet][version] = "1.0-alpha2"
 projects[postal][type] = "module"
 projects[postal][version] = "1.0-alpha1"
+projects[admin_menu][type] = "module"
 
